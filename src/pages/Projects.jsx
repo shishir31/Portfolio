@@ -13,7 +13,19 @@ export default function Projects() {
       title: "Portfolio Website",
       desc: "A personal portfolio built using React, Tailwind CSS, and Framer Motion animations.",
       tech: "React, Tailwind, Framer Motion",
-      link: "https://github.com/shishir31/Portfolio.git6",
+      link: "https://github.com/shishir31/Portfolio.git",
+    },
+    {
+      title: "MERN Chat App-Frontend",
+      desc: "Full-stack web app where users can chat with others using the MERN stack.",
+      tech: "React.js,Tailwindcss",
+      link: "https://github.com/shishir31/chat-frontend.git",
+    },
+    {
+      title: "MERN Chat App-Backend",
+      desc: "Full-stack web app where users can chat with others using the MERN stack.",
+      tech: "Express.js Node.js Mongodb",
+      link: "https://github.com/shishir31/chat-backend.git",
     },
    
   ];
