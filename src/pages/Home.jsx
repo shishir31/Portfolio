@@ -56,7 +56,7 @@ export default function Home() {
       >
         {/* Download Resume Button */}
         <a
-          href="YOUR_RESUME_LINK_HERE"
+          href="https://1drv.ms/b/c/747196c6b7901875/IQTon6o7A1GDQq3UaRRMer9VAai4IVRK9vqx2gww5mNGCJc"
           download
           className="flex items-center gap-2 bg-blue-600 text-white px-6 py-3 rounded-full font-semibold hover:scale-105 hover:bg-blue-700 transition-all duration-300"
         >
