@@ -7,13 +7,13 @@ export default function Projects() {
       title: "Airbnb Clone",
       desc: "Full-stack web app where users can list and book rental homes using the MERN stack.",
       tech: "React, Node.js, MongoDB, Express",
-      link: "#",
+      link: "https://www.linkedin.com/posts/shishir-jaiswal-671385286_airbnb-clone-web-application-built-a-web-activity-7341926984731529218-DUoj?utm_source=share&utm_medium=member_android&rcm=ACoAAEV3cXUBZmv6GVqnj7JclmofcSz7oSSYZY0",
     },
     {
       title: "Portfolio Website",
       desc: "A personal portfolio built using React, Tailwind CSS, and Framer Motion animations.",
       tech: "React, Tailwind, Framer Motion",
-      link: "#",
+      link: "https://github.com/shishir31/Portfolio.git6",
     },
    
   ];
